@@ -16,7 +16,7 @@
 
 I make games, and I make videos about games.
 
-I'm a Management Information Systems student at Bandırma Onyedi Eylül University and the founder of **Poppanda Interactive**, where I'm building **Brewbook** — a cozy café management sim I'm developing solo, from game design and core systems through to art direction. Alongside that I'm a game developer intern at **CNS Games**.
+I'm a 4th year Management Information Systems student at Bandırma Onyedi Eylül University and the founder of **Poppanda Interactive**, where I'm building **Brewbook** — a cozy café management sim I'm developing solo, from game design and core systems through to art direction. Alongside that I'm a game developer intern at **CNS Games**.
 
 The other half of my time goes to design and storytelling: UI/UX for social-impact hackathon apps, and a YouTube channel where I break down the gaming industry for **3,000+ subscribers and 500,000+ views**.
 
