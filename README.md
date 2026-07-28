@@ -1,7 +1,7 @@
 <h1 align="center">Kemal Yılmaz</h1>
 
 <p align="center">
-  Game developer · Founder of <strong>Poppanda Interactive</strong> · MIS student<br/>
+  Game Developer Intern @CNS Games · Founder of <strong>Poppanda Interactive</strong> · MIS student<br/>
   <sub>Bursa, Türkiye</sub>
 </p>
 
